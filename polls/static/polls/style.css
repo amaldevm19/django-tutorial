@@ -1,0 +1,16 @@
+li a {
+    color: white;
+    text-decoration: none;
+   
+}
+a {
+    text-decoration: none;
+    list-style: none;
+    color: red;
+}
+body {
+    background: white url("image/background.jpg") no-repeat;
+}
+li {
+    list-style: none;
+}
